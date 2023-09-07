@@ -89,8 +89,8 @@ The data analysis results are presented with easy-to-understand graphs and table
 4. Run the Python scripts for each part of the analysis.
 
 ## Contributors
-- Sapna Khatri
 - Omkar Shinde
+- Sapna Khatri
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
